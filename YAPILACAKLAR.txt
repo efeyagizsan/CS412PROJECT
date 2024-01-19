@@ -1,0 +1,7 @@
+Fuzzy matching
+
+cevap verilen kodları çektim onları verisetine kümeleme yaparak ekle
+
+her soru promptları matchledin ama promptları da kendi içinde kıyasla aynı olanları ele
+
+soruların katsayılarını ekle
